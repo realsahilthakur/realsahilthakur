@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi! I'm Sahil Thakur, a passionate DevOps engineer with expertise in cloud computing, automation, and full-stack development. I specialize in AWS, CI/CD pipelines, Docker, Kubernetes, and cloud security to help build scalable, resilient systems and streamline deployment processes.
 
-<!--
-**realsahilthakur/realsahilthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Technical Skills:
 
-Here are some ideas to get you started:
+Cloud & DevOps: AWS (EC2, S3, Lambda), CI/CD (Jenkins, GitHub Actions), Docker, Kubernetes
+Programming: Python, Java, C++
+Web Development: HTML, CSS, JavaScript
+Database Management: MySQL, SQL
+Tools & Technologies: Linux, Git, Terraform, Ansible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What Drives Me?
+I am passionate about leveraging automation and cloud-native technologies to improve system reliability and scalability. I thrive in collaborative environments and love solving complex problems while continuously learning the latest advancements in DevOps and cloud computing.
+
+🎯 Current Focus:
+Exploring cloud automation & DevOps opportunities and contributing to innovative projects that drive efficiency.
+
+
+
